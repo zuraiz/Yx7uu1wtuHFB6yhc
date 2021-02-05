@@ -6,13 +6,13 @@
 
 Predict if the customer will subscribe (yes/no) to a term deposit
 
---
+
 
 ## Success Metric:
 
 Hit %81 or above accuracy by evaluating with 5-fold cross validation and reporting the average performance score.
 
---
+
 
 ## Background
 ACME is a small startup focusing mainly on providing machine learning solutions in the European banking market. We work on a variety of problems including fraud detection, sentiment classification and customer intention prediction and classification.
@@ -21,7 +21,7 @@ We are interested in developing a robust machine learning system that leverages 
 
 Ultimately, at ACME we are looking to improve the success rate for calls made to customers for any product that our clients offer. Towards this goal we are working on designing an ever evolving machine learning product that offers high success outcomes while offering interpretability for our clients to make informed decisions.
 
---
+
 
 ## Data Description:
 
