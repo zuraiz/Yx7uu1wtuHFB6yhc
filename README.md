@@ -1,6 +1,5 @@
 # Term Deposit Marketing
 
---
 
 ## Goal:
 
